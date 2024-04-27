@@ -6,8 +6,10 @@
 #Sou mais cativado com o Front-End 
 </br>
 ![JoaoViniciusDev Meu status](https://github-readme-stats.vercel.app/api?username=JoaoViniciusDev&show_icons=true&theme=flag-india)
+<br>
+           As linguagens mais trabalhadas
+<br>
 
-[![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoViniciusDev&layout=compact)](https://github.com/JoaoViniciusDev/github-readme-stats)
 
 
 
